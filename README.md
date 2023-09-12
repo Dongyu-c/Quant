@@ -7,4 +7,4 @@ SRHA-Copy3.ipynb：多因子选股策略
 
 CTA.ipynb：CTA动量策略
 
-LSTM.ipynb：LSTM预测股价峰值
+LSTM1.ipynb：LSTM预测股价峰值
